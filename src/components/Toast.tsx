@@ -1,5 +1,5 @@
 import { ToastType } from '../context/ToastContext'
-import { CheckCircle, XCircle, Info, AlertCircle, X } from 'lucide-react'
+import { CheckCircle, XCircle, Info, AlertCircle } from 'lucide-react'
 
 interface ToastProps {
   message: string

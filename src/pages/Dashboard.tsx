@@ -5,7 +5,6 @@ import {
   TrendingUp,
   TrendingDown,
   DollarSign,
-  Calendar,
 } from 'lucide-react'
 import {
   LineChart,
